@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flickr-feeds-app/static/css/main.e99dab03.chunk.css",
+    "main.js": "/flickr-feeds-app/static/js/main.163b2b92.chunk.js",
+    "main.js.map": "/flickr-feeds-app/static/js/main.163b2b92.chunk.js.map",
+    "runtime-main.js": "/flickr-feeds-app/static/js/runtime-main.091d83b0.js",
+    "runtime-main.js.map": "/flickr-feeds-app/static/js/runtime-main.091d83b0.js.map",
+    "static/css/2.150d169a.chunk.css": "/flickr-feeds-app/static/css/2.150d169a.chunk.css",
+    "static/js/2.c4c52765.chunk.js": "/flickr-feeds-app/static/js/2.c4c52765.chunk.js",
+    "static/js/2.c4c52765.chunk.js.map": "/flickr-feeds-app/static/js/2.c4c52765.chunk.js.map",
+    "static/js/3.fbf8550c.chunk.js": "/flickr-feeds-app/static/js/3.fbf8550c.chunk.js",
+    "static/js/3.fbf8550c.chunk.js.map": "/flickr-feeds-app/static/js/3.fbf8550c.chunk.js.map",
+    "index.html": "/flickr-feeds-app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/flickr-feeds-app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e99dab03.chunk.css.map": "/flickr-feeds-app/static/css/main.e99dab03.chunk.css.map",
+    "static/js/2.c4c52765.chunk.js.LICENSE.txt": "/flickr-feeds-app/static/js/2.c4c52765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.091d83b0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c4c52765.chunk.js",
+    "static/css/main.e99dab03.chunk.css",
+    "static/js/main.163b2b92.chunk.js"
+  ]
+}
